@@ -3,11 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className ="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          내 첫번째 리액트를 가동한 건에 대하여 ! 
         </p>
         <a
           className="App-link"
@@ -19,7 +19,10 @@ function App() {
         </a>
       </header>
     </div>
+    
   );
 }
+
+
 
 export default App;
